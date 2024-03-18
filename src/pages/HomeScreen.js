@@ -40,6 +40,7 @@ const styles = StyleSheet.create({
     paddingVertical: 4,
     flex: 1,
     marginLeft: 100,
+    color:'black'
   },
   mainContainer: {
     backgroundColor: 'white',
