@@ -187,7 +187,7 @@ function HomeScreen() {
             keyExtractor={item => item.id}
           />
         ) : (
-          <Text style={{textAlign: 'center'}}>
+          <Text style={{textAlign: 'center', color:'black'}}>
             No books found!! Try another...
           </Text>
         )}
